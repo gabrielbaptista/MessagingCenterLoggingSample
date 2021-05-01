@@ -1,0 +1,13 @@
+C:\xamarin\MessagingCenterLoggingSample\SampleConsoleAppThread\bin\Debug\netcoreapp3.1\SampleConsoleAppThread.exe
+C:\xamarin\MessagingCenterLoggingSample\SampleConsoleAppThread\bin\Debug\netcoreapp3.1\SampleConsoleAppThread.deps.json
+C:\xamarin\MessagingCenterLoggingSample\SampleConsoleAppThread\bin\Debug\netcoreapp3.1\SampleConsoleAppThread.runtimeconfig.json
+C:\xamarin\MessagingCenterLoggingSample\SampleConsoleAppThread\bin\Debug\netcoreapp3.1\SampleConsoleAppThread.runtimeconfig.dev.json
+C:\xamarin\MessagingCenterLoggingSample\SampleConsoleAppThread\bin\Debug\netcoreapp3.1\SampleConsoleAppThread.dll
+C:\xamarin\MessagingCenterLoggingSample\SampleConsoleAppThread\bin\Debug\netcoreapp3.1\SampleConsoleAppThread.pdb
+C:\xamarin\MessagingCenterLoggingSample\SampleConsoleAppThread\obj\Debug\netcoreapp3.1\SampleConsoleAppThread.csprojAssemblyReference.cache
+C:\xamarin\MessagingCenterLoggingSample\SampleConsoleAppThread\obj\Debug\netcoreapp3.1\SampleConsoleAppThread.AssemblyInfoInputs.cache
+C:\xamarin\MessagingCenterLoggingSample\SampleConsoleAppThread\obj\Debug\netcoreapp3.1\SampleConsoleAppThread.AssemblyInfo.cs
+C:\xamarin\MessagingCenterLoggingSample\SampleConsoleAppThread\obj\Debug\netcoreapp3.1\SampleConsoleAppThread.csproj.CoreCompileInputs.cache
+C:\xamarin\MessagingCenterLoggingSample\SampleConsoleAppThread\obj\Debug\netcoreapp3.1\SampleConsoleAppThread.dll
+C:\xamarin\MessagingCenterLoggingSample\SampleConsoleAppThread\obj\Debug\netcoreapp3.1\SampleConsoleAppThread.pdb
+C:\xamarin\MessagingCenterLoggingSample\SampleConsoleAppThread\obj\Debug\netcoreapp3.1\SampleConsoleAppThread.genruntimeconfig.cache

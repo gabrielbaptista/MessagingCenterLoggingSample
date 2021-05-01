@@ -37,7 +37,7 @@ namespace MessagingCenterSample.Droid.Threads
                     if (mensagensLog.TryDequeue(out LogMessage log))
                     {
                         Console.WriteLine($"Log: {log.Mensagem} | Data: {log.Data}");
-                        Thread.Sleep(5000);
+                        Thread.Sleep(500);
                     }
                 }
                 Thread.Sleep(1);
